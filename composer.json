@@ -1,0 +1,18 @@
+{
+    "name": "elijahcruz/meta",
+    "description": "Get meta tags from any URL",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elijahcruz\\Meta\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elijah Cruz",
+            "email": "ecwebservices@gmail.com"
+        }
+    ],
+    "require": {}
+}
